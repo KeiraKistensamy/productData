@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "productName": "Dell-Latitude",
+            "catergory": "Laptop",
+            "description": "Dell Latitude E5450 i3 5th GEN 1 for buisness. RAM: 8GB, HDD: 1TB",
+            "amount": 20000.89,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/KeiraLogo.jpg"
+        },
+
+        {
+            "id":2,
+            "productName": "Eau des Jardins",
+            "catergory": "oil-based perfume",
+            "description": "The iconic Clarins Eau Dynamisante comes in the floral and uplifting Eau des Jardins. This Treatment Fragrance is made of 93% natural ingredients and inspires joy. It is perfect for chasing away gloom and boosting energy levels in the morning. The stimulating zest of the lemon, orange and grapefruit top notes flood the skin with freshness. Heart notes of bay leaf, spearmint and geranium, combined with the balancing notes of cedar, then offer a beautiful sensation of joy and lightness. Radiance-boosting organic rowan bud extract blended with soothing organic blackcurrant bud extract leaves the skin glowing. Its green bottle is a celebration of nature.",
+            "amount": 400.00,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/1.png"
+        },
+
+        {
+            "id":3,
+            "productName": "Concentrated Perfume Oil By Al Rehab",
+            "catergory": "oil-based perfume",
+            "description": "carefully formulated without alcohol, ensuring a scent that is not only intense but also pure",
+            "amount": 99.99,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/2.png"
+        },
+
+        {
+            "id":4,
+            "productName": "Ocean Bloom",
+            "catergory": "oil-based perfume",
+            "description": "The essence of sea salt and wind in your hair with opulent flowers to sooth your senses.",
+            "amount": 390.00,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/3.png"
+        },
+
+        {
+            "id":5,
+            "productName": "Dior Sauvage ",
+            "catergory": "oil-based perfume",
+            "description": "A refreshing blend of Calabrian bergamot and amberwood, inspired by limitless desert horizons under a radiant blue sky.",
+            "amount": 20000.89,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/4.png"
+        },
+    
+        {
+            "id":6,
+            "productName": "Crown Perfumes Lovely Concentrated Attar Oil ",
+            "catergory": "oil-based perfume",
+            "description": "carefully formulated without alcohol, ensuring a scent that is not only intense but also pure",
+            "amount": 50.00,
+            "img_url": "https://keirakistensamy.github.io/allimages/images/5.png"
+        }
+    ]
+}
